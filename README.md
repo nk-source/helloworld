@@ -1,5 +1,1 @@
-#hello-world 
-
-HI Everyone
-
-Nihar here
+HI Everyone Nihar here
